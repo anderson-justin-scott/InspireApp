@@ -6,6 +6,8 @@ Justin Anderson
 Inspire -
 Tweets from any Twitter user you desire overlaid on beautiful landscape photos (or decrepit backgrounds if you so choose).
 
+![InspireApp Screenshot](InspireAppDemo.PNG)
+
 Program includes all necessary files and CDN links.
 
 In order to run this program using XAMPP, the following steps must occur:
