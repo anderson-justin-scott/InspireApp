@@ -4,7 +4,7 @@ Full stack class project for Boston University MIS CS602
 CS602 Term Project
 Justin Anderson
 Inspire -
-Tweets from any Twitter user you desire overlaid on beautiful landscape photos (or decrepit backgrounds if you so choose).
+Frame ridiculous tweets from any Twitter user you desire. Choose beautiful landscapes or decrepit hellscapes.
 
 ![InspireApp Screenshot](InspireAppDemo.PNG)
 
