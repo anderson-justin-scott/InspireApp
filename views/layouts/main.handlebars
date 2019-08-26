@@ -1,0 +1,38 @@
+<!doctype html>
+<html ng-app="inspireApp">
+
+<head>
+    <meta charset="utf-8">
+    <title>Inspire</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {{!-- jQuery for bootstrap dependency --}}
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="/stylesheets/inspire.css">
+    
+    <script src="/javascripts/oauth.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-md5/0.1.10/angular-md5.js"></script>
+    <script src="/javascripts/angular-resource.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular-sanitize.js"></script>
+    <script src="/javascripts/inspire.module.js"></script>
+    <script src="/javascripts/inspire.controller.js"></script>
+    <script src="/javascripts/services.js"></script>
+	<script src="/javascripts/clickActions.js"></script>
+</head>
+
+<body>
+	{{!-- Router passes in controller name --}}
+	<div ng-controller={{controller}} ng-init={{initialize}}>
+	
+	{{{body}}}
+
+	</div>
+</body>
+
+</html>

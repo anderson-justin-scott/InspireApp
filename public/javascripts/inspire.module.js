@@ -1,0 +1,1 @@
+var inspireModule = angular.module('inspireApp', ['ngResource', 'ngSanitize', 'twitterApp.services', 'angular-md5']);
