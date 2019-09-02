@@ -4,7 +4,7 @@ Full stack class project for Boston University MIS CS602 (last successful build 
 CS602 Term Project
 Justin Anderson
 Inspire -
-An exercise in juxtaposition. Frame ridiculous tweets from any Twitter user you desire. Choose beautiful landscapes or decrepit hellscapes.
+An exercise in juxtaposition. Frame ridiculous tweets from any Twitter user you desire. Choose beautiful landscapes or decrepit hellscapes. Built using AngularJS, Node.js, Express w/ Handlebars, MongoDB w/ Mongoose, Twitter's API, Flickr's API, oAuth, and a ton of coffee.
 
 ![InspireApp Screenshot](InspireAppDemo.PNG)
 
