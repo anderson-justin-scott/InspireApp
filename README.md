@@ -1,5 +1,5 @@
 # InspireApp
-Full stack class project for Boston University MIS CS602
+Full stack class project for Boston University MIS CS602 (last successful build 12/2018)
 
 CS602 Term Project
 Justin Anderson
